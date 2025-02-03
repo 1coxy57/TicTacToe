@@ -1,5 +1,4 @@
 use std::io::{stdin, stdout, Write};
-
 mod core;
 use core::board::{build_board, build_board_with_robot, Board, PlayerType};
 use figlet_rs::FIGfont;
