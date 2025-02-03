@@ -1,0 +1,15 @@
+[package]
+name = "tictactoe"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8"
+figlet-rs = "0.1"
+colored = "2"
+
+
+
+[[bin]]
+name = "tictactoe"
+path = "main.rs"
