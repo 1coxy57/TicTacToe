@@ -15,6 +15,10 @@ A fun project I made in rust to play tic tac toe with your friends or against a 
 ```bash
 git clone https://github.com/1coxy57/TicTacToe.git
 ```
+2. 1. Move into the **repository**:
+```bash
+cd TicTacToe
+```
 2. Build the **project**:
 ```bash
 cargo build
